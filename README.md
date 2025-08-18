@@ -24,6 +24,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh-purohit-0503&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Rushikesh-purohit-0503?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Rushikesh-purohit-0503&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
 ---
 
 ### 📌 Most Used Languages
