@@ -3,7 +3,6 @@
 
 ---
 
-### 🚀 Tech Stack
 ### 🛠 Tech Stack  
 
 | Frontend | Backend | Database | Tools |
