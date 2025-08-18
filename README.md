@@ -24,7 +24,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh-purohit-0503&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh-purohit-0503&theme=tokyonight" alt="GitHub Streak" />
-  ![Visitors](https://komarev.com/ghpvc/?username=Rushikesh-purohit-0503&color=blue&style=flat-square)
 </p>
 
 ---
@@ -47,4 +46,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rushikesh-purohit-2a9136222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rushikeshpurohit3"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  ![Visitors](https://komarev.com/ghpvc/?username=Rushikesh-purohit-0503&color=blue&style=flat-square)
 </p>
