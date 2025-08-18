@@ -4,10 +4,10 @@
 ---
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=Rushikesh-purohit-0503&color=blue&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=Rushikesh-purohit-0503&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
-###  Tech Stack
+### 🚀 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -24,7 +24,7 @@
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh-purohit-0503&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh-purohit-0503&theme=tokyonight" alt="GitHub Streak" />
@@ -32,21 +32,21 @@
 
 ---
 
-###  Most Used Languages
+### 📌 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh-purohit-0503&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-###  About Me
+### 👨‍💻 About Me
 - 🔭 I enjoy building scalable backend systems and responsive frontends  
-- 🌱 Currently exploring Go, GraphQL, Docker-based deployments, gRPC, system design, and deepening my understanding of true parallelism and concurrency  
-- 📫 Reach me at: rushikeshpurohit3@gmail.com  
+- 🌱 Currently exploring **Go, GraphQL, Docker-based deployments, gRPC, system design, and concurrency**  
+- 📫 Reach me at: **rushikeshpurohit3@gmail.com**  
 
 ---
 
-###  Connect with Me
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rushikesh-purohit-2a9136222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rushikeshpurohit3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
