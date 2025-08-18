@@ -24,6 +24,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh-purohit-0503&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh-purohit-0503&theme=tokyonight" alt="GitHub Streak" />
+  ![](https://komarev.com/ghpvc/?username=Rushikesh-purohit-0503&color=blue&style=flat-square)
 </p>
 
 ---
