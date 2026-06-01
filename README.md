@@ -77,14 +77,6 @@ const rushikesh = {
 
 <br/>
 
-<!-- ===== TROPHIES ===== -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rushikesh-purohit-0503&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p>
-
-<br/>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 ## 🐍 Contribution Graph
