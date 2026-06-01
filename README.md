@@ -21,7 +21,7 @@
 <!-- ===== ABOUT ME ===== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" width="280" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" style="display:none" />
+
 
 ```typescript
 const rushikesh = {
@@ -63,12 +63,21 @@ const rushikesh = {
 
 <br/>
 
-<!-- ===== GITHUB STATS ===== -->
+<!-- ===== GITHUB STATS =====
+  IF THESE CARDS BREAK: the public github-readme-stats.vercel.app instance
+  is rate-limited. The cache_seconds param below helps GitHub hold a good
+  copy once it loads. PERMANENT FIX = self-host your own instance:
+    1. Open the github-readme-stats repo, click "Deploy to Vercel",
+       add a GitHub PAT (classic, no scopes) as env var PAT_1.
+    2. You get a URL like  https://YOUR-NAME-stats.vercel.app
+    3. Find/replace every  github-readme-stats.vercel.app
+       with  YOUR-NAME-stats.vercel.app  in the two URLs below.
+-->
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rushikesh-purohit-0503&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh-purohit-0503&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rushikesh-purohit-0503&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh-purohit-0503&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
